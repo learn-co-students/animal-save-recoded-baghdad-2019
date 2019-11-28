@@ -9,4 +9,18 @@ html {
 }
 
 /* Write your solution here */
+@media only screen and (max-width:1298px){
+  #ostrich {
+  position: absolute;
+  top: -100px;
+}
+}
 
+@media only screen and (max-width:620px){
+  #ostrich {
+  position: absolute;
+  top: -250px;
+  left: -120px;
+}
+
+}
